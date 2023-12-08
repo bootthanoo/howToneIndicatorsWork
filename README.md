@@ -1,8 +1,3 @@
-# How Tone Indicators work
-Title: Understanding Tone Indicators: Enhancing Online Communication
-
-Introduction:
-
 In the ever-evolving landscape of online communication, the importance of clear and respectful dialogues is paramount. Tone indicators have emerged as a valuable tool in facilitating better understanding and fostering a more inclusive online environment. These indicators play a crucial role in conveying the emotional tone behind written words, helping to bridge the gap between text and the nuances of spoken communication.
 
 What Are Tone Indicators?
@@ -40,6 +35,7 @@ Common Tone Indicators:
 5. **/rp - Roleplay:**
    Indicates that the message is part of a fictional or role-playing context.
 
-Conclusion:
+# ADD YOUR TONE INDICATORS HERE
+- Submit a pull request to this github repo with tone indicators that you find online, and I'll add them in! <3 Thanks all 
 
-Tone indicators play a crucial role in enhancing online communication by adding depth and nuance to written messages. In a digital world where interpersonal interactions can be challenging, these indicators act as valuable tools for fostering understanding, empathy, and inclusivity. By incorporating tone indicators into our online conversations, we contribute to a more harmonious and respectful virtual environment where the richness of human expression is better preserved.
+~ With much love, Alex! ✨
